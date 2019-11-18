@@ -1,6 +1,14 @@
 NODE.js
 	Ferramenta para trbalhar com JavaScript fora do navegador.
 
+Client x server
+
+Client
+	Quem utiliza o serviço, facebook, insta....
+	
+Serve
+	Quem precisa dos dados para ser executado, inout de dados, busca de informações
+
 Memoria do computador
     Espaço delimitados para receber valores, o que nomeamos de variavel.
     identifcada com o nome reservado VAR, CONST, LET e nome
@@ -23,3 +31,9 @@ DATA TYPES
     OBJECT
         ARRAY
     FUNCTION       
+
+Bibliografia
+	JavaScript o guia definitivo
+	JavaScript guia do programador
+	Guia de referencia Mozilla
+	Guia de referencia ECMA
