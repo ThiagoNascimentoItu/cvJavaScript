@@ -37,3 +37,17 @@ Bibliografia
 	JavaScript guia do programador
 	Guia de referencia Mozilla
 	Guia de referencia ECMA
+
+Converção de dados
+    pode ser usado String(n) ou n.toString()
+    Number.parseFloat ou parseInt
+
+TemplanteString
+    `Estou aprendendo ${Variavel}`
+
+Formatação de strign e number
+    toUpperCase para tudo maiúsculo
+    toLowerCase para tudo minúsculo.
+    toFixed(2) duas casas decimais
+    toFixed(2).replace('.',',') para trocar uma coisa para outra
+    toLocaleString('pt-BR',{style:'currency', currency: 'BRL'}) para trocara formatação de valores para a moeda local
